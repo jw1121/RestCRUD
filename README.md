@@ -5,12 +5,24 @@
  - use flask api
  - use sqlite
  
-##HTTP SUPPORT
-GET
-POST
-PUT
+##HTTP End point
+		GET
+		/market/search/<marketname>
 
-200
-201
-400
-404
+		DELETE
+		/market/delete/
+
+		POST
+		/market/create/
+
+		PUT
+		/market/update/
+
+## HTTP request payload sample
+
+
+## HTTP response code
+	200
+	201
+	400
+	404
