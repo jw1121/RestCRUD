@@ -5,8 +5,8 @@
  - use flask api
  - use sqlite
  
-##HTTP End point
-		GET
+##HTTP End point  
+		GET  
 		/market/search/<marketname>
 
 		DELETE
