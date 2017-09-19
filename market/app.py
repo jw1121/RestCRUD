@@ -1,0 +1,4 @@
+
+
+class MarketView(object):
+    pass
